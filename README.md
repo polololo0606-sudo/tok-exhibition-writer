@@ -31,3 +31,7 @@ The source register is embedded in `SKILL.md`. It records assessment guidance an
 The [strict review](REVIEW.md) documents 24 manual stress cases and a citation-removal fixture. Structural validation passed. Those checks were not a live ZeroGPT test, an independent examiner assessment or an end-to-end benchmark across AI platforms.
 
 No grade or detector result is guaranteed. An A is an overall TOK grade; the exhibition component is marked out of 10. This is an independent resource, not an official IB publication.
+
+---
+
+For illustrative drafting and practice. Outputs are examples to review and adapt.
